@@ -1,0 +1,7 @@
+
+{"status": true,"statusCode": 200,
+    "user":{ "first_name":"Test First Name",
+        "last_name": "Test L",
+        "mobile_number": "+112345678",
+        "email":"test@test.com"}}
+
